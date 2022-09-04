@@ -1,1 +1,1 @@
-** Open Office presentation of Scrum basiscs.
+## Open Office presentation of Scrum basiscs.
